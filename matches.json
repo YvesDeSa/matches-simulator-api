@@ -4,17 +4,17 @@
     "description": "Eliminatorias da Copa do Mundo 2022",
     "location": {
       "name": "Maracana",
-      "image": ""
+      "image": "https://s3.static.brasilescola.uol.com.br/img/2019/12/estadio-maracana-novo.jpg"
     },
     "home-team": {
       "name": "Brasil",
       "rantings": 5,
-      "image": ""
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
      "away-team": {
       "name": "Argentina",
       "rantings": 4.5,
-      "image": ""
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
   }
 ]
