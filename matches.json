@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "description": "Eliminatorias da Copa do Mundo 2022",
+    "location": {
+      "name": "Maracana",
+      "image": ""
+    },
+    "home-team": {
+      "name": "Brasil",
+      "rantings": 5,
+      "image": ""
+    },
+     "away-team": {
+      "name": "Argentina",
+      "rantings": 4.5,
+      "image": ""
+    }
+  }
+]
