@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "description": "Eliminatorias da Copa do Mundo 2022",
     "location": {
       "name": "Maracana",
@@ -12,9 +12,81 @@
       "image": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
      "away-team": {
+      "name": "Argentina",
+      "rantings": 5,
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    }
+  },
+  {
+    "id": 2,
+    "description": "Eliminatorias da Copa do Mundo 2022",
+    "location": {
+      "name": "Casa Blanca",
+      "image": "https://www.lance.com.br/files/article_main/uploads/2022/01/24/61ef2c3458215.jpeg"
+    },
+    "home-team": {
+      "name": "Equador",
+      "rantings": 4,
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/ec.png"
+    },
+     "away-team": {
+      "name": "Chile",
+      "rantings": 3,
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png"
+    }
+  },
+  {
+    "id": 3,
+    "description": "Eliminatorias da Copa do Mundo 2022",
+    "location": {
+      "name": "Campeón del Siglo",
+      "image": "https://identidadecorinthiana.com/wp-content/uploads/2021/05/idcsccp-identidade-corinthiana-corinthians-casa-do-penarol-uruguai.jpeg"
+    },
+    "home-team": {
       "name": "Uruguai",
       "rantings": 4,
       "image": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+    },
+     "away-team": {
+      "name": "Bolívia",
+      "rantings": 2,
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
+    }
+  },
+  {
+    "id": 4,
+    "description": "Eliminatorias da Copa do Mundo 2022",
+    "location": {
+      "name": "Defensores del Chaco",
+      "image": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2015/09/Est%C3%A1dio-Defensores-del-Chaco-%C3%A9-um-dos-mais-antigos-da-Am%C3%A9rica-do-Sul.jpg"
+    },
+    "home-team": {
+      "name": "Paraguai",
+      "rantings": 3,
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/py.png"
+    },
+     "away-team": {
+      "name": "Colômbia",
+      "rantings": 4,
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
+    }
+  },
+  {
+    "id": 5,
+    "description": "Eliminatorias da Copa do Mundo 2022",
+    "location": {
+      "name": "Nacional de Lima",
+      "image": "https://futebolbahiano.org/wp-content/uploads/2020/10/futebolbahiano.org-estadio-nacional-de-lima.jpg"
+    },
+    "home-team": {
+      "name": "Peru",
+      "rantings": 3,
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/pe.png"
+    },
+     "away-team": {
+      "name": "Venezuela",
+      "rantings": 1,
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/ve.png"
     }
   }
 ]
